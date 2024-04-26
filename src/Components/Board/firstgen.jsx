@@ -6,25 +6,49 @@ const Board = () => {
     return (
 <div class="container1">
     <div class="container2" className="firstBoard" >
-        <div class="row row-cols-4 wbrow">
+        <div class="row row-cols-6 wbrow">
             <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
             <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
-            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
-            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
-            </div>
-        <div class="row row-cols-4 wbrow">
             <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
             <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
             <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
             <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
             </div>
-        <div class="row row-cols-4 wbrow">
+        <div class="row row-cols-6 wbrow">
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
             <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
             <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
             <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
             <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
             </div>
-        <div class="row row-cols-4 wbrow">
+            <div class="row row-cols-6 wbrow">
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            </div>
+        <div class="row row-cols-6 wbrow">
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            </div>
+        <div class="row row-cols-6 wbrow">
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            </div>
+        <div class="row row-cols-6 wbrow">
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
+            <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
             <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
             <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
             <div class="col wbbcol"><img src={wb} className="wbb" alt="alive" /></div>
