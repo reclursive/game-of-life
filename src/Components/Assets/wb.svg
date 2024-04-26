@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" fill="black" width="32" height="32">
 <path d="M0 0 C7.92 0 15.84 0 24 0 C24 7.92 24 15.84 24 24 C16.08 24 8.16 24 0 24 C0 16.08 0 8.16 0 0 Z M3 3 C3 8.94 3 14.88 3 21 C8.94 21 14.88 21 21 21 C21 15.06 21 9.12 21 3 C15.06 3 9.12 3 3 3 Z " fill="#000000" transform="translate(4,4)"/>
 </svg>

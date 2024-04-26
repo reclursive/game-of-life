@@ -20,6 +20,7 @@ function App() {
         <h1 class="title">
           Conway's Game of Life
         </h1>
+        <h3>let's go</h3>
         <ScrollButton/>
         <Board/>
       </header>

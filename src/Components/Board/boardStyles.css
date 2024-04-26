@@ -1,6 +1,7 @@
 
 .container1{
     margin-top: 1000px;
+    margin-bottom: 100px;
 }
 .firstBoard {
   display: grid;
@@ -9,6 +10,7 @@
   grid-gap: 0px;
   margin-right: 350px;
   margin-left: 350px;
+  margin-bottom: 100px;
 
 }
 
