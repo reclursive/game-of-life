@@ -2,11 +2,30 @@
   text-align: center;
 }
 
-.App-logo {
+.wb {
+  height: 40vmin;
+  pointer-events: none;
+}
+.bb {
   height: 40vmin;
   pointer-events: none;
 }
 
+.title {
+  font-family: 'Courier New', monospace;
+}
+
+.begin {
+  box-shadow: 0 0 8px #313543;
+  background-color: gray;
+  font-family: 'Courier New', monospace, bold;
+  justify-self: center;
+  color: white;
+}
+
+
+
+/* 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -35,4 +54,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
