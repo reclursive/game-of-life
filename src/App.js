@@ -1,7 +1,10 @@
-import wb from './wb.svg';
-import bb from './bb.svg';
+import wb from './Components/Assets/wb.svg';
+import bb from './Components/Assets/bb.svg';
 import './App.css';
-import Button from './board-btn'
+import ScrollButton from './Components/Buttons/scrollButton'
+import Board from './Components/Board/firstgen'
+import { Fragment } from 'react';
+import { Content, Header } from './Components/Buttons/btnstyles';
 // import React, { useState, useEffect } from 'react';
 
 
@@ -17,7 +20,8 @@ function App() {
         <h1 class="title">
           Conway's Game of Life
         </h1>
-        <Button/>
+        <ScrollButton/>
+        <Board/>
       </header>
     </div>
   );
