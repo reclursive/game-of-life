@@ -39,6 +39,14 @@
     color: white;
 }
 
+input[type='checkbox'] {
+    accent-color: black;
+    width: 30px;
+    height: 30px;
+}
+/* .big-checkbox {width: 30px; height: 30px;} */
+
+
 
 
 
