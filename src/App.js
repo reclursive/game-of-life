@@ -5,11 +5,12 @@ import ScrollButton from './Components/Buttons/scrollButton'
 import Board from './Components/Board/firstgen'
 import { Fragment } from 'react';
 import { Content, Header } from './Components/Buttons/btnstyles';
-// import React, { useState, useEffect } from 'react';
+import React, { useState} from 'react';
 
 
 
 function App() {
+  const [arr, setArr] = useState(Board)
   // const [dimension, generate] = useState();
   return (
     <div className="App">
