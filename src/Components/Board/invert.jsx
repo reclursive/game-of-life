@@ -2,10 +2,10 @@
 // import { Button, Checkbox } from 'react-bootstrap';
 
 
-// pseudo map for logic 
+// // pseudo map for logic (as one option, init grid could look different)
 
 // const Grid = () => {
-//   const [grid, setGrid] = useState(/* Initialize your grid here */);
+//   const [grid, setGrid] = useState(grid);
 //   const [running, setRunning] = useState(false);
 
 //   // Function to handle toggling of checkboxes
@@ -22,9 +22,9 @@
 //   const simulateStep = () => {
 
 //     // Checked box less than two becomes UNCHECKED (verify surrounding coordinates)
-//         -checked box touching 2-3 checked boxes stays the same 
-//         -checked box touching 4 becomes UNCHECKED
-//         -UNCHECKED box surrounded by three checked, becomes CHECKED
+//         // -checked box touching 2-3 checked boxes stays the same 
+//         // -checked box touching 4 becomes UNCHECKED
+//         // -UNCHECKED box surrounded by three checked, becomes CHECKED
 //   };
 
 //   // Effect to run the simulation when 'running' state changes
