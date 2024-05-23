@@ -1,3 +1,5 @@
+# CODING ASSESSMENT FROM US MOBILE
+
 # Conway's Game of Life (wiki)
 dependencies: Bootstrap, React Icons and styled components
 
